@@ -4,4 +4,4 @@
 
 ## Variables and Iteration (Loops)
 
-To get started, head over to the [src](./src/) folder and start working on the Exercise files.
+To get started, head over to the [`src`](./src/) folder and start working on the Exercise files.
