@@ -1,0 +1,13 @@
+{
+	"name": "F27SA Dev Container",
+	"image": "mcr.microsoft.com/devcontainers/java",
+	"features": {
+		"ghcr.io/devcontainers/features/java:1": {
+			"version": "latest",
+			"jdkDistro": "oracle",
+			"installGradle": true,
+			"installMaven": true,
+			"installAnt": true
+		}
+	}
+}
